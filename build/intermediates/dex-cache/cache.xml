@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\xeldax\.android\build-cache\939a6046376eb268166ff9406da8f437d825b82d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\xeldax\AndroidStudioProjects\XposedpluginTest\app\build\intermediates\pre-dexed\debug\classes_dd878c9aeadb238c8778971fb0bd23b306282899.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xeldax\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\xeldax\AndroidStudioProjects\XposedpluginTest\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_611aac8dea00bb36cd70cd7aeed4dce71528c627.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xeldax\.android\build-cache\33cb1e77c6e24b9955154f8bd3af20f6ca3ca97f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\xeldax\AndroidStudioProjects\XposedpluginTest\app\build\intermediates\pre-dexed\debug\classes_dc0811d5829326f2ce7cd7ccd37695f533cff3f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xeldax\.android\build-cache\dc3faca6349f1327342d675f342c22089efd72e3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\xeldax\AndroidStudioProjects\XposedpluginTest\app\build\intermediates\pre-dexed\debug\classes_5d5f84979439ba7213b8e88ad7ce23cb2d4281ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xeldax\.android\build-cache\0fcc77b0d31c6dc981c4a4873f75d888843f2572\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\xeldax\AndroidStudioProjects\XposedpluginTest\app\build\intermediates\pre-dexed\debug\classes_cb95724a68aeed51331ade0176608534dd45530d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xeldax\.android\build-cache\1fd47a2c99a769ce8142624526afe0490de53820\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\xeldax\AndroidStudioProjects\XposedpluginTest\app\build\intermediates\pre-dexed\debug\classes_0b570f4f58ade88e9420360c46b681c4d11424a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xeldax\.android\build-cache\78d60709d3917433c5f1c50046d90d0cddf62483\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\xeldax\AndroidStudioProjects\XposedpluginTest\app\build\intermediates\pre-dexed\debug\classes_bad7f1359e889a8f000744c546904e48f9112e1f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xeldax\.android\build-cache\e46418bc04c8dbe5262caa270efc45fcf1b4d8b3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\xeldax\AndroidStudioProjects\XposedpluginTest\app\build\intermediates\pre-dexed\debug\classes_0834fd9f643e9882c6be014ae7ab7b9b20b33297.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xeldax\.android\build-cache\0f07eda28a3a3b898a702c559c3735eba0158094\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\xeldax\AndroidStudioProjects\XposedpluginTest\app\build\intermediates\pre-dexed\debug\classes_37176cef0a602b25fe8d3a9a92d708b56bc77425.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xeldax\.android\build-cache\023bfa671a387d45192d41f4a289d439e53931c0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\xeldax\AndroidStudioProjects\XposedpluginTest\app\build\intermediates\pre-dexed\debug\classes_75e2c1c4c237f69b449883bbd57a327b03532f56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xeldax\.android\build-cache\a5aeba7f880b7806274406454fe6762d5b8f929e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\xeldax\AndroidStudioProjects\XposedpluginTest\app\build\intermediates\pre-dexed\debug\classes_aa479c4943c34255fe2c2f6b5e62e25368d3b345.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xeldax\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\xeldax\AndroidStudioProjects\XposedpluginTest\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_4ce54122f5294b0a7b958c133057e8fbfdcade43.jar" />
+    </item>
+
+</items>
